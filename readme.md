@@ -1,3 +1,3 @@
 ### tabela em html
 
-<img src="tabela.png">
+<img src="Tabela.png">
